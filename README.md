@@ -261,7 +261,7 @@ If you discover a security vulnerability within this application, please send an
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contributing
-
+0. git clone https://github.com/jargoh999/php-developer 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
